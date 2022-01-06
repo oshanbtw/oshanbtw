@@ -1,5 +1,5 @@
 
-[<img src='https://i.hizliresim.com/4phwc7k.gif' alt='github' height='500' weight = '11'>](https://github.com/oshanbtw)
+[<img src='https://i.hizliresim.com/4phwc7k.gif' alt='github' height='300' weight = '300'>](https://github.com/oshanbtw)
 #### Oğuzhan Erkahraman
 I'm Oğuzhan from Turkey and I'm a student software engineering at CBU. I really enjoy learning languages and new things, spending time at computer.
 
