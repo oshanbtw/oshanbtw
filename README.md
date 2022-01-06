@@ -5,7 +5,7 @@ I'm Oğuzhan from Turkey and I'm a student software engineering at CBU. I really
 
 
 
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/oshanbtw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oguzhanerkahraman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oguzhan.erkahraman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oguzhanerkhrmn)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/oshanbtw)  [<img src='https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/oguzhanerkahraman/)  [<img src='http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png' alt='instagram' height='40'>](https://www.instagram.com/oguzhan.erkahraman/)  [<img src='https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png' alt='twitter' height='40'>](https://twitter.com/oguzhanerkhrmn)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
